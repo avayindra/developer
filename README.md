@@ -1,1 +1,1 @@
-[Developer]("https://avayindra.github.io/developer/")
+[Developer](https://avayindra.github.io/developer/)
